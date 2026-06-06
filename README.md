@@ -17,20 +17,20 @@ update the credentials in src/dbs_objs/MyJDBC.java to match your local setup.
 
 # Usage
 
-Launch the app — you will be taken to the login screen
+1. Launch the app — you will be taken to the login screen
 
-Click "Register here" to create a new account (username must be at least 6 characters)
+2. Click "Register here" to create a new account (username must be at least 6 characters)
 
-Log in with your credentials
+3. Log in with your credentials
 
-From the main screen you can:
+4. From the main screen you can:
 
-Deposit — add funds to your account
+  - Deposit — add funds to your account
 
-Withdraw — remove funds (cannot exceed current balance)
+  - Withdraw — remove funds (cannot exceed current balance)
 
-Transfer — send funds to another registered user by username
+  - Transfer — send funds to another registered user by username
 
-Past Transactions — view your full transaction history
+  - Past Transactions — view your full transaction history
 
-Logout — return to the login screen
+  - Logout — return to the login screen
