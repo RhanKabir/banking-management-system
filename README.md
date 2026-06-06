@@ -24,13 +24,13 @@ update the credentials in src/dbs_objs/MyJDBC.java to match your local setup.
 3. Log in with your credentials
 
 4. From the main screen you can:
-
-  - Deposit — add funds to your account
-
-  - Withdraw — remove funds (cannot exceed current balance)
-
-  - Transfer — send funds to another registered user by username
-
-  - Past Transactions — view your full transaction history
-
-  - Logout — return to the login screen
+  
+    - Deposit — add funds to your account
+  
+    - Withdraw — remove funds (cannot exceed current balance)
+  
+    - Transfer — send funds to another registered user by username
+  
+    - Past Transactions — view your full transaction history
+  
+    - Logout — return to the login screen
