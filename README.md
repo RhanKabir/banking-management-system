@@ -8,7 +8,7 @@ Deposit and withdraw funds
 Transfer funds between accounts
 View past transaction history
 
-Database Setup
+# Database Setup
 You will need to set up a local MySQL database to run this project. Once MySQL is installed, 
 update the credentials in src/dbs_objs/MyJDBC.java to match your local setup.
 
